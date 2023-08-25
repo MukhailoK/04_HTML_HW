@@ -80,6 +80,10 @@ textarea {
     transition: background-color 0.3s ease;
 }
 
-button:hover {
-    background-color: #a8a772;
+.submit:hover {
+    background-color: rgb(2, 196, 2);
+}
+
+.reset:hover{
+    background-color: #ff0000;
 }
